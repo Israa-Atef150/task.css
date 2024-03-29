@@ -1,0 +1,43 @@
+h1{
+    color: aquamarine;
+}
+h1{
+    color: #fff;
+}
+h1{
+color:rgba(red, green, blue, 0.2) ;
+}
+h5{
+
+color: rgb(0,250,250) ;
+}
+
+h1{
+    color: hsl(0,30%,50%);
+}
+h2{
+    color: hsla(hue, saturation, lightness, alpha);
+}
+
+h3{
+background-color: aqua;
+background-image:url(img.jpg) ;
+height: 700px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: 600px;
+background-attachment: fixed;
+
+}
+
+h4{
+
+background-repeat: no-repeat;
+background-size: contain;
+background-position: top right;
+background-attachment: fixed;
+}
+
+
+
+
